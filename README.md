@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alperen Teke</h1>
-<h3 align="center">A passionate developer from Bilecik."I have been developing myself in the field of software for over 1.5 years. I would be honored to share the projects I have worked on with you.</h3>
+<h3 align="center">A passionate developer from Bilecik.I have been developing myself in the field of software for over 1.5 years. I would be honored to share the projects I have worked on with you.</h3>
 
 - 💬 Ask me about **C#,PHP,JS,SQL**
 
